@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 const path = require('path');
 const LinkRouter = require('./router/linkRouter');
 
-const app = express();
+const app = express();cls
 const mongoUrl = "mongodb+srv://10Oqr:10Oqr@cluster0.6jnuz.mongodb.net/";
 
 // Connect to MongoDB
